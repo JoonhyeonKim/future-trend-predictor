@@ -27,7 +27,7 @@ This project is designed to analyze current news data and predict future trends 
 To run the main script:
 ```bash
 python main.py
-
+```
 ## License
 MIT License
 
