@@ -22,6 +22,12 @@ This project is designed to analyze current news data and predict future trends 
    source env/bin/activate
    pip install -r requirements.txt
    ```
+4. Set the API keys in the .env file
+   ```bash
+   touch .env
+   ```
+   OPENAI_API_KEY=your_openai_key_here
+   NEWS_API_KEY=your_news_api_key_here
 
 ## Usage
 To run the main script:
