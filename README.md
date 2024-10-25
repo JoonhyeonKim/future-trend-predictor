@@ -28,6 +28,7 @@ This project is designed to analyze current news data and predict future trends 
    ```
    OPENAI_API_KEY=your_openai_key_here
    NEWS_API_KEY=your_news_api_key_here
+   SERPAPI_API_KEY=your_serpapi_key_here
 
 ## Usage
 To run the main script:
